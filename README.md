@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Nezzy! My pronouns are they/them.
+
+Currently I'm learning..
+- Data Analytics
+- DevOps
+- Python
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66cda40ea22274ce503e28e0?variant=dark)](https://roadmap.sh)
+
 <!--
 **nezzynaz/nezzynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
