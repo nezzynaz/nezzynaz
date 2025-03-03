@@ -4,6 +4,8 @@ My name is Nezzy! My pronouns are they/them.
 
 Currently I'm learning how to code, ask me about linux.
 
+![](https://www.codewars.com/users/nezzynaz/badges/small)
+
 <!--
 **nezzynaz/nezzynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
